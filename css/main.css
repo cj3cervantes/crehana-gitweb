@@ -1,14 +1,15 @@
-body{
-    background: "fff";
-    color: black;
+.container{
+    max-width: 100px;
+    margin: 0 auto;
 }
 
-h1{
-    font-size: 20px;
-    margin-bottom: 10px;
-
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between ;
 }
 
-p{
-    color: #darkgoldenrod;
+ul{
+    display: flex;
+    align-items: center;
 }
