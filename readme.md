@@ -15,6 +15,7 @@ lorem  Lorem ipsum dolor sit amLorem ipsum dolor sit amet consectetur.
 lorem  Lorem ipsum dolor sit amLorem ipsum dolor sit amet consectetur.
 
 - se borro Paso 4 y 5
+- Se edito nuevamente para solo hacer git pull (cambios en github/remoto y pc/local)
 
 ## Subtitulo
 lorem  Lorem ipsum dolor sit amLorem ipsum dolor sit amet consectetu lorem  Lorem ipsum dolor sit amLorem ipsum dolor sit amet consectetur.
