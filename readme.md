@@ -13,11 +13,8 @@ lorem  Lorem ipsum dolor sit amLorem ipsum dolor sit amet consectetur.
 - Paso 3
 lorem  Lorem ipsum dolor sit amLorem ipsum dolor sit amet consectetur.
 lorem  Lorem ipsum dolor sit amLorem ipsum dolor sit amet consectetur.
-- Paso 4
 
-- Paso 5
-lorem  Lorem ipsum dolor sit amLorem ipsum dolor sit amet consectetur.
-lorem  Lorem ipsum dolor sit amLorem ipsum dolor sit amet consectetur.
+- se borro Paso 4 y 5
 
 ## Subtitulo
 lorem  Lorem ipsum dolor sit amLorem ipsum dolor sit amet consectetu lorem  Lorem ipsum dolor sit amLorem ipsum dolor sit amet consectetur.
