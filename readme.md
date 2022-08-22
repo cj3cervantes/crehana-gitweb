@@ -21,7 +21,7 @@ lorem  Lorem ipsum dolor sit amLorem ipsum dolor sit amet consectetur.
 lorem  Lorem ipsum dolor sit amLorem ipsum dolor sit amet consectetu lorem  Lorem ipsum dolor sit amLorem ipsum dolor sit amet consectetur.
 
 - item
-- item
-- item
+- Se cambio en github/remoto
+- item aqui tambien
 - item
 
